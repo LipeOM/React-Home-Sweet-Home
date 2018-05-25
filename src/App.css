@@ -1,0 +1,83 @@
+.fixed {
+  position: fixed;
+}
+
+.full-view {
+  height: 100vh;
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.vertical-align-row {
+  align-items: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.center-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.header-container {
+  background-size: cover;
+  background-position: center;
+}
+
+.main-header {
+  width: 100%;
+  top: 0;
+}
+
+.navbar {
+  height: 50px;
+  width: inherit;
+  padding: 0 10px;
+  color: #ffffff;
+  background: rgba( 0, 0, 0, .6 );
+}
+
+.navigation {
+  flex-grow: 1;
+}
+
+.link {
+  margin-left: 20px;
+  font-size: 1.2em;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.card {
+  background: rgba( 255, 255, 255, .8);
+  border: 2px solid #000;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.tamanho{
+  margin-left: 30px;
+  margin-top: 70px;
+}
+
+.tabela{
+  display: flex;
+  padding-left: 5px;
+}
+
+.sai{
+  padding-right: 35px;
+}

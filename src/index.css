@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 15px;
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+}
+.receber{
+  background: rgba( 255, 255, 255, .8);
+  border: 2px solid #000;
+  padding: 30px;
+  border-radius: 10px;
+}
